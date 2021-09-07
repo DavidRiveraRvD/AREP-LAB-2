@@ -10,6 +10,9 @@ En este taller se presentan diferentes retos en donde se explora los conceptos d
 ### APP WEB
 Aqui puede acceder a la aplicacion web para este proyecto.
 
+https://arep-lab02.herokuapp.com/
+
+
 ### Integración Continua
 
 ### REQUISITOS
