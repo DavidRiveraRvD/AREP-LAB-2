@@ -26,17 +26,17 @@ Aqui puede acceder a la aplicacion web para este proyecto.
 
 * Ejercicio 1
 
-`java -cp target/classes edu.escuelaing.arem.ejercicios.URLPrint`
+`java -cp target/classes edu.escuelaing.arep.ejercicios.URLPrint`
 
 * Ejercicio 2
 
-`java -cp target/classes edu.escuelaing.arem.ejercicios.URLReader`
+`java -cp target/classes edu.escuelaing.arep.ejercicios.URLReader`
 
 * Ejercicio 3
 
-`java -cp target/classes edu.escuelaing.arem.ejercicios.EchoServer`
+`java -cp target/classes edu.escuelaing.arep.ejercicios.EchoServer`
 
-`java -cp target/classes edu.escuelaing.arem.ejercicios.EchoClient`
+`java -cp target/classes edu.escuelaing.arep.ejercicios.EchoClient`
 
 ### JAVADOC
 
