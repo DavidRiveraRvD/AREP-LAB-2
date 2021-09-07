@@ -10,9 +10,6 @@ En este taller se presentan diferentes retos en donde se explora los conceptos d
 ### APP WEB
 Aqui puede acceder a la aplicacion web para este proyecto.
 
-https://arep-lab02.herokuapp.com/
-
-
 ### Integración Continua
 
 ### REQUISITOS
@@ -29,17 +26,17 @@ https://arep-lab02.herokuapp.com/
 
 * Ejercicio 1
 
-`java -cp target/classes edu.escuelaing.arep.ejercicios.URLPrint`
+`java -cp target/classes edu.escuelaing.arem.ejercicios.URLPrint`
 
 * Ejercicio 2
 
-`java -cp target/classes edu.escuelaing.arep.ejercicios.URLReader`
+`java -cp target/classes edu.escuelaing.arem.ejercicios.URLReader`
 
 * Ejercicio 3
 
-`java -cp target/classes edu.escuelaing.arep.ejercicios.EchoServer`
+`java -cp target/classes edu.escuelaing.arem.ejercicios.EchoServer`
 
-`java -cp target/classes edu.escuelaing.arep.ejercicios.EchoClient`
+`java -cp target/classes edu.escuelaing.arem.ejercicios.EchoClient`
 
 ### JAVADOC
 
